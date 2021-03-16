@@ -18,7 +18,11 @@ Clone the repository and open the index.html file directly or with live server (
 
 
 ## Screenshots
+![alt text](https://github.com/NTielman/Color_Toggle/blob/main/Preview_images/color_toggle_preview1.png "Home page Preview image")
 
+![alt text](https://github.com/NTielman/Color_Toggle/blob/main/Preview_images/color_toggle_preview2.png "Blue Preview image")
+
+![alt text](https://github.com/NTielman/Color_Toggle/blob/main/Preview_images/color_toggle_preview3.png "Red Preview image")
 
 
 ## Live Demo 
